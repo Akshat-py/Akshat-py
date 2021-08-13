@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshat-py
 - 👀 I’m interested in Linux, Low-Level Language.
-- 🌱 I’m currently learning Linux Terminal.
+- 🌱 I’m currently learning Linux Terminal, x86 Assembly(MASM or HLA).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My email akshat2008.in@gmail.com .
 
